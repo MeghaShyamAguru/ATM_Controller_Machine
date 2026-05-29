@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../Vivado_amd/2025.1/Vivado/data/rsb/busdef" \
+"C:/Users/SANKA/OneDrive/Documents/VERILOG PRACTICE/ATM_Machine_Controller/ATM_Machine_Controller.srcs/sources_1/new/atm.v" \
+"C:/Users/SANKA/OneDrive/Documents/VERILOG PRACTICE/ATM_Machine_Controller/ATM_Machine_Controller.srcs/sim_1/new/atm_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

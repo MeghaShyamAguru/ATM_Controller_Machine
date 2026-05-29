@@ -1,0 +1,40 @@
+# Vivado generated folders
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.srcs/
+.gen/
+.xpr.user/
+
+# Vivado logs
+*.jou
+*.log
+*.str
+
+# Vivado temporary files
+*.tmp
+*.backup
+*.wdb
+*.pb
+
+# Simulation files
+xsim.dir/
+*.vcd
+*.wcfg
+
+# Bitstreams and generated outputs
+*.bit
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc

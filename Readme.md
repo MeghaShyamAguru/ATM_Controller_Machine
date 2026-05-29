@@ -1,6 +1,6 @@
 # ATM Controller FSM (Verilog)
 
-This repository contains the Verilog HDL implementation of a Finite State Machine (FSM) modeling a comprehensive ATM controller. Designed as part of the EE-210 Digital Circuits curriculum at the Indian Institute of Technology Guwahati, this project successfully handles user authentication, dynamic cash dispensing, PIN management, and error handling.
+This repository contains the Verilog HDL implementation of a Finite State Machine (FSM) modeling a comprehensive ATM controller. This project successfully handles user authentication, dynamic cash dispensing, PIN management, and error handling.
 
 ## Features
 
